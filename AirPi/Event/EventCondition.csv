@@ -1,0 +1,1 @@
+id1,op1,val1,id2,op2,val2,id3,op3,val3,triggerTemperature,gt,25,,,,,,,firetemp,gt,35,humidity,gt ,25,,,,hotandhumidtemperature,lt,10,,,,,,,toocoldCo_ohms,gt,0.2,,,,,,,highco2light,lt,10,,,,,,,lowlight
