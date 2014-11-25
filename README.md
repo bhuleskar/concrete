@@ -14,3 +14,15 @@ Won 1st prize at Composite's (Cisco's) Raspberry Pi Contest.
 Name: RangeQuery
 Description:
 A multi threaded non-blocking streaming based query component developed in Java. 
+<b>A lot more to be added to GIT.</b>
+
+
+Papers:
+1. Hybrid Spam Email Filtering
+	link : http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5231956&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5231956
+
+Papers on GIT:
+1. Databases in Cloud
+2. High Speed Content Delivery Network
+3. Web 2.0
+<b>A lot more to be added to GIT.</b>
